@@ -58,5 +58,13 @@ The project follows a complete analytics workflow, including data cleaning, SQL 
 - Measured the impact of discounts and shipping costs on profitability.
 - Developed executive KPIs to support strategic business decision-making.
 
+## 🚀 Business Recommendations
+
+- Focus marketing efforts on high-margin products and customer segments.
+- Review discount strategies to improve overall profitability.
+- Optimise shipping costs to reduce operational expenses.
+- Expand successful product categories into high-performing regions.
+- Monitor business KPIs regularly to support data-driven decision-making.
+
 
 
