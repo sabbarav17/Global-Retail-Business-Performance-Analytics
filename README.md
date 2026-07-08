@@ -50,4 +50,13 @@ The project follows a complete analytics workflow, including data cleaning, SQL 
 6. Interactive Dashboard Development
 7. Business Insights & Recommendations
 
+## 💡 Key Business Insights
+
+- Identified the products and categories contributing the highest overall profit.
+- Analysed customer purchasing behaviour to identify high-value customers.
+- Evaluated regional and market performance to highlight growth opportunities.
+- Measured the impact of discounts and shipping costs on profitability.
+- Developed executive KPIs to support strategic business decision-making.
+
+
 
