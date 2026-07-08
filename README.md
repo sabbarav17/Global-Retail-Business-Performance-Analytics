@@ -40,3 +40,14 @@ The project follows a complete analytics workflow, including data cleaning, SQL 
 - Business Intelligence
 - Data Analytics
 
+## 📈 Project Workflow
+
+1. Data Collection
+2. Data Cleaning & Validation
+3. Exploratory Data Analysis (EDA)
+4. SQL Business Analysis
+5. KPI Development
+6. Interactive Dashboard Development
+7. Business Insights & Recommendations
+
+
