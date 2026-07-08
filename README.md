@@ -2,21 +2,35 @@
 
 ## 📌 Project Overview
 
-This project demonstrates an end-to-end Business Intelligence solution using SQL Server and Power BI to analyse retail sales, profitability, customer behaviour, and business performance.
+This project presents an end-to-end Business Intelligence solution using SQL Server and Power BI to analyse retail sales, profitability, customer behaviour, product performance, and regional business performance.
 
-The project follows a real-world business analytics workflow, including data preparation, SQL analysis, KPI development, interactive dashboard creation, and business recommendations.
+The project follows a complete analytics workflow, including data cleaning, SQL analysis, KPI development, dashboard creation, and business recommendations to support data-driven decision-making.
 
----
+
 
 ## 🎯 Business Objectives
 
-- Analyse retail sales performance
-- Evaluate customer and product profitability
-- Monitor regional and category performance
-- Develop business KPIs
-- Support data-driven decision making
+- Analyse overall business performance
+- Evaluate profitability across products and customers
+- Monitor regional and market performance
+- Identify high-value customers
+- Measure key business KPIs
+- Support strategic business decisions
 
----
+
+
+## 📊 Key Performance Indicators (KPIs)
+
+- Total Sales
+- Total Profit
+- Profit Margin
+- Total Orders
+- Average Order Value
+- Customer Performance
+- Product Performance
+- Regional Performance
+
+
 
 ## 🛠️ Technologies Used
 
@@ -26,6 +40,3 @@ The project follows a real-world business analytics workflow, including data pre
 - Business Intelligence
 - Data Analytics
 
----
-
-> 🚧 **Project files, dashboards, SQL scripts, and documentation will be uploaded in the following sections.**
